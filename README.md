@@ -17,12 +17,14 @@ menu customer
 4. KERANJANG : melihat dan men check out apa yg sudah di masukan sebelumnya ke keranjang
 5. CEK KUOTA : menambahkan jumlah kuota yg sudah di beli
 6. EXIT : kembali ke menu utama 
-[Explain a step or phase](https://github.com/user-attachments/assets/79c41623-1462-4531-84b2-34846180a9a5)
-![Explain a step or phase (1)](https://github.com/user-attachments/assets/95ce86d8-4bad-4395-ad05-918600d3163b)
-![Explain a step or phase (2)](https://github.com/user-attachments/assets/9cdcd4e9-f6c6-4aba-b496-932adc507eaa)
-![Explain a step or phase (3)](https://github.com/user-attachments/assets/43961967-504d-471a-9a70-ce89be443862)
-![Explain a step or phase (4)](https://github.com/user-attachments/assets/1829ba8c-348b!
-[Explain a step or phase (5)](https://github.com/user-attachments/assets/45a54c78-f038-434a-8b57-6b6cfbcf75f6)
--4181-be71-7acbc2e9c3c3)!
-[Explain a step or phase (5)](https://github.com/user-attachments/assets/c7c7a44c-7fc9-4d61-9f43-e57040482cc9)
+
+![Explain a step or phase](https://github.com/user-attachments/assets/08b470de-a726-4f0a-b438-2d01d5d0eae6)
+
+![Explain a step or phase (1)](https://github.com/user-attachments/assets/8ca6c813-8ecb-4a78-a591-4646f26771a9)
+![Explain a step or phase (2)](https://github.com/user-attachments/assets/f0a7c483-7461-
+![Explain a step or phase (3)](https://github.com/user-attachments/assets/f44da8c1-f815-4039-8797-6f691a3992d0)
+45e1-a45d-abf312f0c198)
+![Explain a step or phase (4)](https://github.com/user-attachments/assets/b
+![Explain a step or phase (5)](https://github.com/user-attachments/assets/3d0afb6c-236f-46bc-9783-f82f230b2b55)
+b230bc3-bac7-440d-9e6a-f4f4e5308d64)
 
