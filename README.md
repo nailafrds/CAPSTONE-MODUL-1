@@ -19,4 +19,5 @@ menu customer
 6. EXIT : kembali ke menu utama 
 
 ![Explain a step or phase](https://github.com/user-attachments/assets/3205aaef-be8b-4e59-bfcd-50105c6cd56b)
-![Explain a step or phase (5)](https://github.com/user-attachments/assets/1c0d7a3e-5527-4b4c-87b6-352a39c81a18)
+
+![Explain a step or phase (6)](https://github.com/user-attachments/assets/c41f0a93-bba8-4a28-a1d5-5a8e19e2724c)
