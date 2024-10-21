@@ -21,6 +21,8 @@ menu customer
 ![Explain a step or phase (1)](https://github.com/user-attachments/assets/95ce86d8-4bad-4395-ad05-918600d3163b)
 ![Explain a step or phase (2)](https://github.com/user-attachments/assets/9cdcd4e9-f6c6-4aba-b496-932adc507eaa)
 ![Explain a step or phase (3)](https://github.com/user-attachments/assets/43961967-504d-471a-9a70-ce89be443862)
-![Explain a step or phase (4)](https://github.com/user-attachments/assets/1829ba8c-348b![Explain a step or phase (5)](https://github.com/user-attachments/assets/45a54c78-f038-434a-8b57-6b6cfbcf75f6)
--4181-be71-7acbc2e9c3c3)![Explain a step or phase (5)](https://github.com/user-attachments/assets/c7c7a44c-7fc9-4d61-9f43-e57040482cc9)
+![Explain a step or phase (4)](https://github.com/user-attachments/assets/1829ba8c-348b!
+[Explain a step or phase (5)](https://github.com/user-attachments/assets/45a54c78-f038-434a-8b57-6b6cfbcf75f6)
+-4181-be71-7acbc2e9c3c3)!
+[Explain a step or phase (5)](https://github.com/user-attachments/assets/c7c7a44c-7fc9-4d61-9f43-e57040482cc9)
 
