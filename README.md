@@ -21,5 +21,7 @@ menu customer
 ![Explain a step or phase](https://github.com/user-attachments/assets/3205aaef-be8b-4e59-bfcd-50105c6cd56b)
 
 ![Explain a step or phase (1)](https://github.com/user-attachments/assets/7bc4f509-3665-42c3-88c4-490fe98b3c8a)
+![Explain a step or phase (2)](https://github.com/user-attachments/assets/a8dc65a7-7854-40f4-b7b8-05840cfece0c)
+
 
 ![Explain a step or phase (6)](https://github.com/user-attachments/assets/c41f0a93-bba8-4a28-a1d5-5a8e19e2724c)
